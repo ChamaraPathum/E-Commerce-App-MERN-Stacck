@@ -1,1 +1,1 @@
-# E-Commerce-App-MERN-Stacck
+This is e-commerce app using React , Strapi, Stripe 
